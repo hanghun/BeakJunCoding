@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include "Dog.h"
+
 int main() {
-	std::cout << "hello CMake" << std::endl;
+	Dog();
 }
